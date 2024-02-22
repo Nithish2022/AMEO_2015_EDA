@@ -1,4 +1,4 @@
-Project Title: Exploratory Data Analysis (EDA) - Understanding Job Market Trends
+#Project Title: Exploratory Data Analysis (EDA) - Understanding Job Market Trends
 
 Objective:
 The objective of this project is to conduct exploratory data analysis (EDA) on a dataset related to job market trends. Through data visualization, statistical analysis, and hypothesis testing, the project aims to gain insights into various factors influencing salary levels, career choices, and gender preferences in the job market.
